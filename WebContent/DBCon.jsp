@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <%@  page
     import="java.util.*"
-    import = "java.sql.*" %>
+    import ="java.sql.*" %>
 <% 
 	// null로 초기화 한다.
 	Connection conn = null;
